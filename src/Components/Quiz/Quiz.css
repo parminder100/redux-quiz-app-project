@@ -1,0 +1,26 @@
+.quiz-content{
+    width: 400px;
+    background-color: #252d4a;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 42px 0px rgb(0 0 0 / 75%);
+    color: #ffffff;
+    margin-top: 50px;
+}
+.quiz-answers{
+    line-height: 27px;
+    display: grid;
+    gap: 5px;
+}
+.quiz-answers button{
+    width: 100%;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #252d4a;
+    border-radius: 15px;
+    padding: 5px;
+    border: 5px solid #234668;
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 10px;
+}
